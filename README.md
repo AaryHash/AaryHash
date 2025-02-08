@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 😄 My name is Aary Hash (he/him), and I'm an ITI Major and Sociology Minor.
+- 🌱 I'm currently learning how to develop games, sites, and apps.
+- 🤔 I'm trying to find my specific interests in my field.
+- 📫 You can reach me at my Instagram, @aaryhash.
+
 <!--
 **AaryHash/AaryHash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
