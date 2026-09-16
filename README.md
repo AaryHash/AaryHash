@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 😄 My name is Aary (he/him), and I'm an ITI Major and Sociology Minor.
+- 😄 My name is Aary (he/him), and I'm a recent Information Technology graduate from Rutgers University.
 - 🌱 I'm currently learning how to develop games, sites, and apps.
 - 🤔 I'm trying to find my specific interests in my field.
 - 📫 You can reach me at my Instagram, @aaryhash.
